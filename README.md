@@ -28,4 +28,3 @@ user input validation.
 ## Note
 As this is my first project, there are bound to be more efficient ways to go about
 programming this game, any suggestions/criticisms would be greatly appreciated :)
-![image](https://user-images.githubusercontent.com/73895396/122620998-3d74dd80-d08c-11eb-8a95-41e4813e50ee.png)
